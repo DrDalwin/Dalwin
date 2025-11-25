@@ -1,6 +1,17 @@
-# Square Function Assignment
+# Assignment: Square a Number (Python)
 
-Write a function `square(n)` that returns n*n.
+Click below to open in Google Colab:
 
-Run tests using:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MDS581-2025/christ-demo-demo-test-Dalwin-1/blob/main/assignment.ipynb)
+
+## Instructions for Students
+1. Open this assignment in Google Colab using the button above.  
+2. Edit the file `assignment.py` and complete the function `square_number(n)`.  
+3. Run the tests inside Colab to verify.  
+4. Commit & push your code to GitHub Classroom.
+
+## Files
+- `assignment.py` — you will write your function here  
+- `tests/test_assignment.py` — used by GitHub autograder  
+- `assignment.ipynb` — optional Colab notebook to test your code  
